@@ -17,7 +17,7 @@ a{display:inline-block;vertical-align:top;}
 .header {background-color: #070649;position: relative;z-index: 200;}
 .header-box {padding: 17px 0;display: flex;align-items: center;justify-content: space-between;}
 .logo {flex: 1;}
-.logo > a > .ir-txt {box-sizing: border-box;background: url(../images/sprites.svg) 0 0 no-repeat;width: 174px;height: 36px;}
+.logo > a > .ir-txt {box-sizing: border-box;background: url(../images/sprites.svg) 0 0 no-repeat;width: 168px;height: 36px;}
 .nav {flex: 1.7;}
 .nav-menu {display: flex;flex-flow: row wrap;justify-content: space-around;align-items: center;}
 .nav-menu > li > a {font-size: 1.3rem;font-weight: 400;color: #fff;letter-spacing: -0.55px;text-decoration: none;position: relative;}
