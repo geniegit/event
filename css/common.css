@@ -1,0 +1,9 @@
+@charset "utf-8";
+/*************************************************
+프로젝트명 : 연합뉴스TV 행사페이지
+commnet : common.css
+*************************************************/
+
+/* =============== ####IR ======================== */
+.ir-txt{overflow:hidden;font-size:1px;line-height:1px;white-space:nowrap;color:transparent;}
+.ir-txt::selection{font-size:0;} /* 드래그시 버튼에 글자 보임 방지 */
